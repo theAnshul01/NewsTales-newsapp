@@ -22,7 +22,7 @@ handleDarkMode = ()=>{
 
 
     return (
-      <div>
+      <div className='sticky-top'>
         <nav className="navbar navbar-expand-lg bg-body-tertiary">
             <div className="container-fluid">
             <a className="navbar-brand" href="/"><img src="" alt="" /> NewsTales</a>
